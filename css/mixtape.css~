@@ -16,11 +16,11 @@ body {
 #mixtape {
 background-image: url('../images/mixtape.jpg');
 background-repeat: no-repeat;
-	background-size:50%;
+	background-size:100%;
 	
 
 height: 300px;
-margin-left: 450px;
+margin-left: 200px;
 margin-right: 100px;
 margin-top: 75px;
 width: 50%
@@ -30,8 +30,8 @@ text-align: center;
 #songlist {
 border: 4px solid black;
 display: block;
-margin-left: 500px;
-margin-right:500px; 
+margin-left: 300px;
+margin-right:525px; 
 background-color: #fff;
 margin-bottom: 10px;
 }
@@ -46,12 +46,12 @@ color: red;
 #songlist iframe {
 font-size: 25px;
 display: block;
-padding:10px;
+padding:50px;
 text-align: center;
 color:darkblue;
 margin: 5px;
-width: 200px;
-height: 200px;
+width: 400px;
+height: 400px;
 }
 
 
