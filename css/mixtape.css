@@ -1,0 +1,62 @@
+
+
+body {
+	font: 90%/1.45em "Helvetica Neue", HelveticaNeue, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #333;
+	background-color: #fff;
+	background-image: url('../images/wildflower.jpg');
+   background-repeat: no-repeat;
+	background-size:cover;
+	
+}
+
+
+#mixtape {
+background-image: url('../images/mixtape.jpg');
+background-repeat: no-repeat;
+	background-size:50%;
+	
+
+height: 300px;
+margin-left: 450px;
+margin-right: 100px;
+margin-top: 75px;
+width: 50%
+text-align: center;
+}
+
+#songlist {
+border: 4px solid black;
+display: block;
+margin-left: 500px;
+margin-right:525px; 
+background-color: #fff;
+margin-bottom: 10px;
+}
+
+#songlist h1 {
+text-align: center;
+font-size: 35px;
+color: red;
+
+}
+
+#songlist iframe {
+font-size: 25px;
+display: block;
+padding:10px;
+text-align: center;
+color:darkblue;
+margin: 5px;
+width: 200px;
+height: 200px;
+}
+
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
